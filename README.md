@@ -9,7 +9,7 @@ This project explores the use of data science and machine learning to predict in
 
 📄 [Click here to view the PDF project preview](./NBA_Injury_Report.pdf)
 
-> Note: Full project report available upon request. All work is original and protected under a view-only license.
+> Note: All work is original and protected under a view-only license.
 
 Tools & Skills Used
 - Python 
